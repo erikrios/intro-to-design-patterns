@@ -1,6 +1,6 @@
 package com.erikriosetiawan;
 
-public class Duck {
+public abstract class Duck {
 
     QuackBehavior quackBehavior;
 
